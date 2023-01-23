@@ -1,0 +1,26 @@
+{
+   "urn":"urn:vimcar:com.vimcar.test.challenge:trip/46f9401f-b1c5-65b6-4db5-8874e251234",
+   "start":{
+      "formattedAddress":"Warschauer Str. 57, 10243 Berlin, Germany",
+      "time":"2022-11-08T14:10:20+00:00",
+      "coordinate":{
+         "lng":13.451995210977191,
+         "lat":52.50909426179722
+      }
+   },
+   "end":{
+      "formattedAddress":"Friedrich-Engels-Straße 99, 14473 Potsdam, Germany",
+      "time":"2022-11-08T15:30:00+00:00",
+      "coordinate":{
+         "lng":13.06617899747715,
+         "lat":52.39120264140971
+      }
+   },
+   "category":"COMMUTE",
+   "driver":"Max Mustermann",
+   "comment":"Short trip to the office",
+   "distanceInMeter":3900,
+   "reason":null,
+   "contactName":null,
+   "contactCompany":null
+}

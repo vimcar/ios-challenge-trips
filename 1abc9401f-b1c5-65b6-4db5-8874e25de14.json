@@ -1,0 +1,26 @@
+{
+   "urn":"urn:vimcar:com.vimcar.test.challenge:trip/1abc9401f-b1c5-65b6-4db5-8874e25de14",
+   "start":{
+      "formattedAddress":"Friedrich-Engels-Straße 99, 14473 Potsdam, Germany",
+      "time":"2022-11-08T16:00:00+00:00",
+      "coordinate":{
+         "lng":13.06617899747715,
+         "lat":52.39120264140971
+      }
+   },
+   "end":{
+      "formattedAddress":"Caputh, 14548 Schwielowsee, Germany",
+      "time":"2022-11-08T16:30:00+00:00",
+      "coordinate":{
+         "lng":12.99795934032632,
+         "lat":52.34746297922632
+      }
+   },
+   "category":"PRIVATE",
+   "driver":null,
+   "comment":null,
+   "distanceInMeter":10400,
+   "reason":null,
+   "contactName":null,
+   "contactCompany":null
+}

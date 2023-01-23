@@ -1,0 +1,26 @@
+{
+   "urn":"urn:vimcar:com.vimcar.test.challenge:trip/46f9401f-65b6-4db5-b1c5-8874e2529744",
+   "start":{
+      "formattedAddress":"Großer Stern, 10557 Berlin, Germany",
+      "time":"2022-11-08T13:17:24+00:00",
+      "coordinate":{
+         "lng":13.35008456383871,
+         "lat":52.51453363105097
+      }
+   },
+   "end":{
+      "formattedAddress":"Warschauer Str. 57, 10243 Berlin, Germany",
+      "time":"2022-11-08T13:38:46+00:00",
+      "coordinate":{
+         "lng":13.451995210977191,
+         "lat":52.50909426179722
+      }
+   },
+   "category":"BUSINESS",
+   "driver":"Max Mustermann",
+   "comment":"Short trip to the office",
+   "distanceInMeter":8700,
+   "reason":"Picking up new OBD hardware 🙃.",
+   "contactName":"Mobile Team",
+   "contactCompany":"Vimcar GmbH"
+}
